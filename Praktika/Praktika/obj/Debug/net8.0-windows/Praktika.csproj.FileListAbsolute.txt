@@ -1,0 +1,100 @@
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.exe
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.deps.json
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.runtimeconfig.json
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.pdb
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.AssemblyReference.cache
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Loginas.resources
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Registracija.resources
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.GenerateResource.cache
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfoInputs.cache
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfo.cs
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.CopyComplete
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.dll
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\refint\Praktika.dll
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.pdb
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.genruntimeconfig.cache
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\ref\Praktika.dll
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Finansai.resources
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\15784\source\repos\Praktika\Praktika\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\15784\source\repos\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.PDF.resources
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.exe
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.deps.json
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.runtimeconfig.json
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.pdb
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.AssemblyReference.cache
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Finansai.resources
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Loginas.resources
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.PDF.resources
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.Registracija.resources
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.GenerateResource.cache
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfoInputs.cache
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfo.cs
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.Up2Date
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\refint\Praktika.dll
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.pdb
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.genruntimeconfig.cache
+C:\Users\vakar\Desktop\Kolegija\Objektinis Programavimas\2024-Praktika-Kolegijoje-main\Praktika\Praktika\obj\Debug\net8.0-windows\ref\Praktika.dll
